@@ -1,0 +1,17 @@
+{
+    "name": "guillaumehartemann/quest-composer3",
+    "autoload": {
+        "psr-4": {
+            "Guillaumehartemann\\QuestComposer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ghartemann",
+            "email": "g.hartemann@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
